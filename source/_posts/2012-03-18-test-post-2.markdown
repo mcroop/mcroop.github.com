@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Test Post 2"
+date: 2012-03-18 19:26
+comments: true
+categories: meta
+---
